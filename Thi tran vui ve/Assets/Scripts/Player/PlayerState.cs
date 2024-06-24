@@ -38,6 +38,10 @@ public class PlayerState : MonoBehaviour
             this.player.huongNhin = HuongNhanVat.up;
         else if (move.y < 0)
             this.player.huongNhin = HuongNhanVat.down;
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            
+        }  
     }
     virtual public void FixedUpdate()
     {
