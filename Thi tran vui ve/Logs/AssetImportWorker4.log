@@ -1783,3 +1783,475 @@ Received Import Request.
 Start importing Assets/Material/Player.physicsMaterial2D using Guid(776f25325d1eefd43a21cd6700a8a200) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab4c22574464f265405dd53fc025a73f') in 0.0242189 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 200.200408 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_0.asset
+  artifactKey: Guid(dd4aa7c99411be14c8a47f00fd276e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_0.asset using Guid(dd4aa7c99411be14c8a47f00fd276e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12d00e72f12177c2898a1c813ea187e0') in 0.139329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_15.asset
+  artifactKey: Guid(ed51ab7f207272645a51fb43df53a1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_15.asset using Guid(ed51ab7f207272645a51fb43df53a1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ae0a311c3c82fe5bb49578aa6ee8ffa') in 0.0139463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_8.asset
+  artifactKey: Guid(cc88322a82c238b478920170abe35a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_8.asset using Guid(cc88322a82c238b478920170abe35a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40f2ceaae085cd1f43a286c1689e4c30') in 0.019511 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_13.asset
+  artifactKey: Guid(a3ee247ef9477d34cbfdf5f6f69804d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_13.asset using Guid(a3ee247ef9477d34cbfdf5f6f69804d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48b4b6702dadd3b908bc833f152f5f45') in 0.015592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_11.asset
+  artifactKey: Guid(766ebaca7bba8e54cafc364b21fb023c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_11.asset using Guid(766ebaca7bba8e54cafc364b21fb023c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f90e86c8dda97580f0714c9eccf6c83c') in 0.0096578 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_10.asset
+  artifactKey: Guid(04a7c37fdc2549842b42384fc6bb754f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_10.asset using Guid(04a7c37fdc2549842b42384fc6bb754f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0af282a223b00f527d99d67ffcb6a413') in 0.0107393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_12.asset
+  artifactKey: Guid(817e9b276628f8a43a67cf512b7c7838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_12.asset using Guid(817e9b276628f8a43a67cf512b7c7838) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e15ad6c537b5b50b856d61b33d84638') in 0.0103556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_7.asset
+  artifactKey: Guid(38f8117d165afcd4d934c41daac3a2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_7.asset using Guid(38f8117d165afcd4d934c41daac3a2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd22713638d9c400fbe1bbf44d9deff95') in 0.0125009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_5.asset
+  artifactKey: Guid(00cc52c5e51de5846ab19f3c58779f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_5.asset using Guid(00cc52c5e51de5846ab19f3c58779f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f8dfffc8fc090a724e5e916a5b4556c') in 0.0110323 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_9.asset
+  artifactKey: Guid(07b3b34e30173bf4db41b85bf3510b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_9.asset using Guid(07b3b34e30173bf4db41b85bf3510b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0d6eb8580ea7039e6796ea3f1ff9ba7') in 0.0114193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_14.asset
+  artifactKey: Guid(a79ba5a6dfda44e47a1b7064ee18c8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_14.asset using Guid(a79ba5a6dfda44e47a1b7064ee18c8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fab4e776b898639784b0db30e15acc8') in 0.012971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_3.asset
+  artifactKey: Guid(c0e604581d7dab246a1fc73f8e44d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_3.asset using Guid(c0e604581d7dab246a1fc73f8e44d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14f8276622904222aee5d71780e25f6a') in 0.0134521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_2.asset
+  artifactKey: Guid(a310a0d8b6226c7409608dcca142efb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_2.asset using Guid(a310a0d8b6226c7409608dcca142efb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f6fe9901f36c51ef06ed49c0fc14eb8') in 0.0146021 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_6.asset
+  artifactKey: Guid(72fb5beef306d124e8371ec2015b6344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/BG/Grass_6.asset using Guid(72fb5beef306d124e8371ec2015b6344) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46e7bfa47e0aa58ac61e7ca245366d24') in 0.015502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.453705 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_0.asset
+  artifactKey: Guid(a954ba7a4f7a41d41906d36287a14a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_0.asset using Guid(a954ba7a4f7a41d41906d36287a14a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b594058b23a9bf5ce688ea37f566c80') in 0.0111406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_7.asset
+  artifactKey: Guid(cf399077fbcbab94ba955432b80f7533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_7.asset using Guid(cf399077fbcbab94ba955432b80f7533) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c12f2218230ef83121ca01fdb2182a9') in 0.033318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_2.asset
+  artifactKey: Guid(9e7951f47a2495542b42b1c1379d9ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_2.asset using Guid(9e7951f47a2495542b42b1c1379d9ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5e698e4b095a6c9d155eb3ef797754c') in 0.0144623 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_14.asset
+  artifactKey: Guid(afc52b42b9fcbf84cb73e508a1b2d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_14.asset using Guid(afc52b42b9fcbf84cb73e508a1b2d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b164a09067ef45f83c0af66a9997a73') in 0.0244925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_9.asset
+  artifactKey: Guid(017e353c79bf97a4d91baa7ed99df1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_9.asset using Guid(017e353c79bf97a4d91baa7ed99df1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3c70bfc29371cae5f1838b4b70d7fcf') in 0.0129762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_8.asset
+  artifactKey: Guid(eb2b4b816b97056469163f4ffdc1fb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_8.asset using Guid(eb2b4b816b97056469163f4ffdc1fb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa9ccf892be149a3161966cc456ba7aa') in 0.0135503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_12.asset
+  artifactKey: Guid(4a30673227694cc4ba98004800ec72fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_12.asset using Guid(4a30673227694cc4ba98004800ec72fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53150f2d52ad4c827b2724a732629079') in 0.0140026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_13.asset
+  artifactKey: Guid(d8ac6f38719a3fe47ac1f187ebcdd981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Ground/Tilled_Dirt_13.asset using Guid(d8ac6f38719a3fe47ac1f187ebcdd981) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40f46abc33d0ba79af8be2fa40cd79b4') in 0.0101234 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.623829 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Materials/ee02eff3-65ea-4f1b-a2bd-2999d81278d2.mat
+  artifactKey: Guid(f768171cf6e806742b7b2324fffe706b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/Materials/ee02eff3-65ea-4f1b-a2bd-2999d81278d2.mat using Guid(f768171cf6e806742b7b2324fffe706b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc1ffd9718263bff243ac82dec4f2a97') in 0.2713343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.301252 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/dayofthedead_anims_preview.gif
+  artifactKey: Guid(85623dd0d3dbacf4385141d93da95176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/dayofthedead_anims_preview.gif using Guid(85623dd0d3dbacf4385141d93da95176) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc7a47f3d809da90aa2b1c7cf4dfca07') in 0.0298772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/hallowicons_3.png
+  artifactKey: Guid(9fe2da8d32c664341b91a7b5dca73a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/hallowicons_3.png using Guid(9fe2da8d32c664341b91a7b5dca73a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a3665310117474e8149dc48b9b620aa') in 0.0748776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/ghost3.png
+  artifactKey: Guid(98a53c61682deba4f9a11ebdd3d74bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/ghost3.png using Guid(98a53c61682deba4f9a11ebdd3d74bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e18774bc9e8fecc762aebaa4b2277b6') in 0.0440011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/hallowicons_1.png
+  artifactKey: Guid(4434c0b605abde544b01bb34582543ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/hallowicons_1.png using Guid(4434c0b605abde544b01bb34582543ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a00c0240bca9b20f5daec94ae48305d9') in 0.0684252 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.081691 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/vampire_3.png
+  artifactKey: Guid(4c03ef1e80ac35d419326df2015cd65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Tilesets/halloween_10.2022/vampire_3.png using Guid(4c03ef1e80ac35d419326df2015cd65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7be2e562ba8d34a040f4dd78330b2518') in 0.1741633 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 85
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image D:\Ducvu25\Unity2DTopDownRGB\Thi tran vui ve\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Ducvu25\Unity2DTopDownRGB\Thi tran vui ve\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.756 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.912 seconds
+Domain Reload Profiling: 1670ms
+	BeginReloadAssembly (226ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (22ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (449ms)
+		LoadAssemblies (357ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (192ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (166ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (912ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (648ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (477ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 1.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (5.0 MB). Loaded Objects now: 7442.
+Memory consumption went from 210.3 MB to 205.3 MB.
+Total: 12.285800 ms (FindLiveObjects: 0.964800 ms CreateObjectMapping: 1.321100 ms MarkObjects: 5.584000 ms  DeleteObjects: 4.414800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 962.840324 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack
+  artifactKey: Guid(94d108035752e9d4fa2ce837b54e091c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack using Guid(94d108035752e9d4fa2ce837b54e091c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79f90b56b1316d1ccd9e801b5173c1b1') in 0.006036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.632887 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/fonts
+  artifactKey: Guid(305133eb169565c4cb21d5ad99e0959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/fonts using Guid(305133eb169565c4cb21d5ad99e0959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '87e4363048b0b26e221422570af31780') in 0.0006512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.994239 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets
+  artifactKey: Guid(8c24c4b00e3a6b74381f4dbb50770c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets using Guid(8c24c4b00e3a6b74381f4dbb50770c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '281ee3872c445cba1d28a183edd4f6ca') in 0.0009652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050106 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Setting menu.png
+  artifactKey: Guid(1d8923be7e69e3c45be02fc1a708e887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Setting menu.png using Guid(1d8923be7e69e3c45be02fc1a708e887) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d41c7d34ec48d2d1abeb973abfefb83') in 0.0845865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Big Play Button.png
+  artifactKey: Guid(96d76a5561b1fec40acef99706bec00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Big Play Button.png using Guid(96d76a5561b1fec40acef99706bec00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91d6769e480e9798476b74fcf1518f42') in 0.0214995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Settings Buttons.png
+  artifactKey: Guid(7871618795d6a894da574efa90041169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Settings Buttons.png using Guid(7871618795d6a894da574efa90041169) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf3788509c0baf5f32c50af6266ca28e') in 0.0927679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 53
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.351018 seconds.
+  path: Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Sprite sheet for Basic Pack.png
+  artifactKey: Guid(adcab257cb0861b448f3f1462ff323f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pictures/Sprout Lands - Sprites - Basic pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Sprite sheet for Basic Pack.png using Guid(adcab257cb0861b448f3f1462ff323f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe6c3bad2c0da17707cbc7e6cc85f48b') in 0.6067558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 318
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image D:\Ducvu25\Unity2DTopDownRGB\Thi tran vui ve\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Ducvu25\Unity2DTopDownRGB\Thi tran vui ve\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.843 seconds
+Refreshing native plugins compatible for Editor in 0.97 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.925 seconds
+Domain Reload Profiling: 1769ms
+	BeginReloadAssembly (249ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (74ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (510ms)
+		LoadAssemblies (392ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (199ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (926ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (648ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (475ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (4.8 MB). Loaded Objects now: 7468.
+Memory consumption went from 212.3 MB to 207.4 MB.
+Total: 10.550800 ms (FindLiveObjects: 0.869200 ms CreateObjectMapping: 1.426700 ms MarkObjects: 5.165600 ms  DeleteObjects: 3.088200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image D:\Ducvu25\Unity2DTopDownRGB\Thi tran vui ve\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Ducvu25\Unity2DTopDownRGB\Thi tran vui ve\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.776 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.848 seconds
+Domain Reload Profiling: 1625ms
+	BeginReloadAssembly (209ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (474ms)
+		LoadAssemblies (375ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (200ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (174ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (849ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (583ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (423ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6383 unused Assets / (5.0 MB). Loaded Objects now: 7468.
+Memory consumption went from 214.2 MB to 209.2 MB.
+Total: 11.387400 ms (FindLiveObjects: 0.913400 ms CreateObjectMapping: 1.980300 ms MarkObjects: 5.499200 ms  DeleteObjects: 2.993600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
