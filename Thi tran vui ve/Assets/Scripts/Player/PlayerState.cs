@@ -30,17 +30,23 @@ public class PlayerState : MonoBehaviour
             this.timeState-= Time.deltaTime;
         move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         if (move.x > 0)
+        {
             this.player.huongNhin = HuongNhanVat.right;
+            player.transform.localScale = new Vector3(-Mathf.Abs(player.transform.localScale.x), player.transform.localScale.y, player.transform.localScale.z);
+        }
         else if (move.x < 0)
+        {
             this.player.huongNhin = HuongNhanVat.left;
-
+            player.transform.localScale = new Vector3(Mathf.Abs(player.transform.localScale.x), player.transform.localScale.y, player.transform.localScale.z);
+        }
         if (move.y > 0)
             this.player.huongNhin = HuongNhanVat.up;
         else if (move.y < 0)
             this.player.huongNhin = HuongNhanVat.down;
+
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            
+            this.SetState(this.player.stateProduction);
         }  
     }
     virtual public void FixedUpdate()
@@ -49,5 +55,26 @@ public class PlayerState : MonoBehaviour
     }
     virtual public void Exit() {
         this.ani.SetBool(this.nameState, false);
+    }
+    void SetState(StateProduction state)
+    {
+        switch (state)
+        {
+            case StateProduction.heo:
+                {
+                    this.stateMachine.SetState(this.player.state_heo);
+                    break;
+                }
+            case StateProduction.cut_down_the_tree:
+                {
+                    this.stateMachine.SetState(this.player.state_cut_down_the_tree);
+                    break;
+                }
+            case StateProduction.water_the_tree:
+                {
+                    this.stateMachine.SetState(this.player.state_water_the_tree);
+                    break;
+                }
+        }
     }
 }
